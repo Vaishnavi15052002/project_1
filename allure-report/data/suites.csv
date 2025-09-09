@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","30329","test","chromium","Tue Sep 09 10:09:38 IST 2025","broken","Tue Sep 09 10:10:08 IST 2025","","zepto.spec.js","",""
+"","9262","test","firefox","Tue Sep 09 10:10:56 IST 2025","passed","Tue Sep 09 10:11:05 IST 2025","","playwright.spec.js","",""
+"","8862","test","webkit","Tue Sep 09 10:10:56 IST 2025","passed","Tue Sep 09 10:11:05 IST 2025","","playwright.spec.js","",""
+"","3786","test","chromium","Tue Sep 09 10:10:56 IST 2025","passed","Tue Sep 09 10:11:00 IST 2025","","playwright.spec.js","",""
+"","30804","test","firefox","Tue Sep 09 10:09:38 IST 2025","broken","Tue Sep 09 10:10:09 IST 2025","","zepto.spec.js","",""
+"","32779","test","webkit","Tue Sep 09 10:09:38 IST 2025","broken","Tue Sep 09 10:10:10 IST 2025","","zepto.spec.js","",""
